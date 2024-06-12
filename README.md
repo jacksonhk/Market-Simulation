@@ -12,3 +12,4 @@ Done:
 Next steps:
 1. Better plot: time steps -> year
 2. Abstraction of multi-paths as function (instead of for loop)
+3. Create ways to output the n price paths for trading strategies evaluation
