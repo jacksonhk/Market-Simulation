@@ -1,8 +1,13 @@
 # Market-Simulation
 
-Market simulation with S&P parameters using GARCH model
+# Market simulation with S&P parameters using GARCH model
 
-Done: 
+# Folder: 
+reference: paper
+data: any data to pass into for simulation
+simulation.ipynb: the main file for simulation and garch model
+
+# Done: 
 1. snp parameters
 2. garch model with s&p parameters
 3. garch simulation <br />
@@ -10,3 +15,5 @@ Done:
  b. Abstraction of multi-paths as function (instead of for loop) <br />
  c. output the n price paths for trading strategies evaluation <br />
 4. Better plot: time steps -> year
+
+# Stage: MVP completed
