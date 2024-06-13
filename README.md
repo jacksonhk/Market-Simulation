@@ -9,6 +9,4 @@ Done:
  a. garch simulation configuration with mu and sigma (multiplier) <br />
  b. Abstraction of multi-paths as function (instead of for loop) <br />
  c. output the n price paths for trading strategies evaluation <br />
-
-Next steps:
-1. Better plot: time steps -> year
+4. Better plot: time steps -> year
