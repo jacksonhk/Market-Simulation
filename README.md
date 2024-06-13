@@ -1,11 +1,11 @@
 # Market-Simulation
 
-# Market simulation with S&P parameters using GARCH model
+Market simulation with S&P parameters using GARCH model
 
 # Folder: 
-reference: paper
-data: any data to pass into for simulation
-simulation.ipynb: the main file for simulation and garch model
+reference: paper <br />
+data: any data to pass into for simulation <br />
+simulation.ipynb: the main file for simulation and garch model <br />
 
 # Done: 
 1. snp parameters
